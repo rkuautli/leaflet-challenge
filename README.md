@@ -17,6 +17,6 @@ The color should represent the earthquake's depth (darker colors for greater dep
 
 ## Source Files
 
-index.html: The main application page displaying the map and visualization.
-static/app.js: The JavaScript file containing the logic to fulfill the visualization requirements.
-https://rkuautli.github.io/leaflet-challenge/
+- index.html: The main application page displaying the map and visualization.
+- static/app.js: The JavaScript file containing the logic to fulfill the visualization requirements.
+- App page: https://rkuautli.github.io/leaflet-challenge/
